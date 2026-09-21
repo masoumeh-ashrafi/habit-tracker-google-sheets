@@ -1,4 +1,13 @@
 # Habit Tracker Google Sheets Template
+<p align="center">
+
+<img src="screenshots/dashboard.png" width="800">
+
+</p>
+
+<p align="center">
+A simple and visual Google Sheets habit tracker template
+</p>
 
 A customizable habit tracking system built in Google Sheets to help you monitor daily routines, build consistency, and visualize progress.
 
