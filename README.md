@@ -1,4 +1,5 @@
 # Habit Tracker Google Sheets Template
+
 <p align="center">
 
 <img src="screenshots/dashboard.png" width="800">
@@ -6,42 +7,93 @@
 </p>
 
 <p align="center">
-A simple and visual Google Sheets habit tracker template
+A simple, visual, and customizable Google Sheets template to track habits, build consistency, and monitor personal progress.
 </p>
 
-A customizable habit tracking system built in Google Sheets to help you monitor daily routines, build consistency, and visualize progress.
+---
+
+## Overview
+
+The Habit Tracker Google Sheets Template is designed to help you create better routines and visualize your daily progress.
+
+Track your habits, review your consistency, and stay motivated with an interactive dashboard and visual progress system.
+
+---
 
 ## Preview
 
-![Dashboard](screenshots/dashboard.png)
+<p align="center">
+
+<img src="screenshots/dashboard.png" width="800">
+
+</p>
+
+---
 
 ## Features
 
 ✅ Daily habit tracking
 ✅ Automatic progress calculation
-✅ Visual dashboard
-✅ Weekly habit review
-✅ Checkbox-based tracking
+✅ Interactive dashboard
+✅ Visual progress charts
+✅ Monthly habit overview
+✅ Checkbox-based tracking system
+✅ Weekly review section
 ✅ Simple and customizable design
+
+---
+
+## What's Included
+
+This template includes:
+
+- 📊 Habit Tracker Dashboard
+- ✅ Daily Tracking System
+- 📈 Progress Visualization
+- 🗓 Monthly Overview
+- 🔄 Weekly Review Section
+
+---
 
 ## How to Use
 
 1. Open the Google Sheets template
 2. Make a copy to your Google Drive
-3. Customize your habits
-4. Start tracking your progress
+3. Customize your habits and goals
+4. Start tracking your daily progress
+5. Review your improvement over time
 
-## What's Included
+---
 
-- Habit Tracker Dashboard
-- Daily Tracking System
-- Progress Visualization
-- Weekly Review Section
+## Product Details
+
+**Format:** Google Sheets Template
+**Category:** Productivity & Personal Development
+**Type:** Digital Product
+
+Suitable for:
+
+- Personal habit building
+- Daily routines
+- Goal tracking
+- Self-improvement planning
+
+---
 
 ## Demo
 
-Coming soon...
+A live demo version will be available soon.
+
+---
+
+## Purchase
+
+Purchase link will be available soon.
+
+---
 
 ## License
 
-This project is a portfolio showcase.
+This repository is a portfolio showcase.
+
+The template design and files are intended for personal use according to the product license.
