@@ -82,11 +82,11 @@ Suitable for:
 
 ## Live Demo
 
-Preview the Habit Tracker template:
+Try the template:
 
-[View Google Sheets Demo](https://docs.google.com/spreadsheets/d/106D8mp5CmK8F1WEijPZ2zRgR2TrL7XlOPbNhIaoxFfQ/edit?usp=sharing)
+📊 [View Google Sheets Demo](https://docs.google.com/spreadsheets/d/106D8mp5CmK8F1WEijPZ2zRgR2TrL7XlOPbNhIaoxFfQ/edit?usp=sharing)
 
-Create your own editable copy:
+📋 [Make a Copy to Your Google Drive]
 
 [Make a Copy](https://docs.google.com/spreadsheets/d/106D8mp5CmK8F1WEijPZ2zRgR2TrL7XlOPbNhIaoxFfQ/copy)
 
